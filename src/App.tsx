@@ -3,9 +3,9 @@ import { Cube } from "./components/cube";
 
 function App() {
   return (
-    <div className="App">
-      <Cube />
-    </div>
+      <div className="App">
+        <Cube />
+      </div>
   );
 }
 
